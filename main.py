@@ -1,2 +1,4 @@
 # vi main.py -> i -> print('hello') -> esc -> :wq enter
-print('hello')
+for _ in range(5):
+    print('hello world')
+
